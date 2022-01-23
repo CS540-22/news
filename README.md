@@ -16,15 +16,16 @@
 
 The primary purpose of the course is to learn-by-doing multiple advanced
 software engineering techniques including:
+1. Software Supply Chains
 1. Open source software development
 1. Software measurement
 1. Software tools
-1. Big Data analysis, inclding using shell script
-1. Cloud
+1. Basics of Big Data inclding shell scripting
+1. Basics of the cloud
 
-The semester-long group (of three) project will involve building an
+The semester-long group project will involve building an
 open source software tool that utilizes software development data to
-provide information, recommendations, or automation. 
+do measurement of software process, provide information, recommendations, or automation. 
 
-Each of the techniques will be learned through work on a real project. 
+
 
