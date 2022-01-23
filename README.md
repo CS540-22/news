@@ -11,7 +11,8 @@
 # Syllabus and News for CS540: Advanced Software Engineering
 
 * **Course:** [COSCS-540]
-* ** MWF 09:15AM-10:05AM  (Min Kao 419) and over zoom**
+* ** MWF 09:15AM-10:05AM  (Min Kao 419) and over zoom
+  https://tennessee.zoom.us/j/99540828537  **
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
 
 The primary purpose of the course is to learn-by-doing multiple advanced
@@ -21,7 +22,8 @@ software engineering techniques including:
 1. Software measurement
 1. Software tools
 1. Basics of Big Data inclding shell scripting
-1. Basics of the cloud
+1. Basics of the cloud computing
+1. Advanced software process
 
 The semester-long group project will involve building an
 open source software tool that utilizes software development data to
