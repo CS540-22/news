@@ -11,7 +11,7 @@
 # Syllabus and News for CS540: Advanced Software Engineering
 
 * **Course:** [COSCS-540]
-* ** MWF 09:15AM-10:05AM  (Min Kao 419) and over zoom
+* ** MWF 09:15AM-10:05AM  (Min Kao 405) and over zoom
   https://tennessee.zoom.us/j/99540828537  **
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
 
