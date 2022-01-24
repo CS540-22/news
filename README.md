@@ -4,7 +4,7 @@
 
 # Class 2: Wed Jan 26
 1. Make sure you have submitted the PR (see class 1 below)
-2. Class [recordings are at](https://drive.google.com/drive/folders/1iTYjIME0nwAoozlwIzbyvt1Wg0Vvdhfs?usp=sharing), please login to google using utk email
+2. Class [recordings are here](https://drive.google.com/drive/folders/1iTYjIME0nwAoozlwIzbyvt1Wg0Vvdhfs?usp=sharing), please login to google using utk email
 3. Based on the feedback
     a) All classes will have an online option (do not notify me if you can not attend in person)
     b) All Fridays (unless otherwise noted) will be online-only or self-directed
