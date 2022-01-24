@@ -1,3 +1,19 @@
+# Class 3: Fri Jan 28
+5. I will continue describing software supply chains and World of Code infrastructure
+6. We will spend the rest of the class discussing class projects
+
+# Class 2: Wed Jan 26
+1. Make sure you have submitted the PR (see class 1 below)
+2. Class [recordings are at](https://drive.google.com/drive/folders/1iTYjIME0nwAoozlwIzbyvt1Wg0Vvdhfs?usp=sharing), please login to google using utk email
+3. Based on the feedback
+    a) All classes will have an online option (do not notify me if you can not attend in person)
+    b) All Fridays (unless otherwise noted) will be online-only or self-directed
+    c) All Mondays (unless otherwise noted) will be preferably in-person, unless it is inconvenient for you
+    d) All Wednesdays (unless otherwise noted) will be preferably in-person, unless it is inconvenient for you. Depending on how many of you actually show up this may change in the future.
+4. Class will be using Software Engineering textbook draft by Ravi Sethi (see lectures folder)
+5. I will start by introducing the concept of software supply chains and World of Code infrastructure
+6. We will spend the rest of the class discussing class projects
+
 # Class 1: Monday Jan 24
 
 1. Fork  https://github.com/CS540-22/students
