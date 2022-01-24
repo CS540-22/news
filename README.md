@@ -1,4 +1,4 @@
-# Class 1: Monday Jan 13
+# Class 1: Monday Jan 24
 
 1. Fork  https://github.com/CS540-22/students
 1. Introduce yourself via a netid.md file (do not create netid.md,
