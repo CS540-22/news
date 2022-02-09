@@ -5,7 +5,8 @@
     - Remember that the user is some kind of software developer
 
 # Feb 8
-  - Scrum: each team presents update on the proposal and on the process choice
+  - Scrum: each team presents update on the proposal and on the process choice (see textbook Section 2)
+  - Please don't forget to have milestones/issues for your project
 
 # Class 3: Fri Jan 28
 1. I will continue describing software supply chains and World of Code infrastructure
