@@ -1,3 +1,11 @@
+# Feb 18: Proposal due
+  - In addition to sections of the proposal please add a paragraph explaining your choice of process for the class project
+    - what it is
+    - why it is sensible for your project as compared to at least two other choices of the process listed in the textbook
+
+# Feb 8
+  - Scrum: each team presents update on the proposal and on the process choice
+
 # Class 3: Fri Jan 28
 1. I will continue describing software supply chains and World of Code infrastructure
 2. We will spend the rest of the class discussing class projects
