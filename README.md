@@ -1,7 +1,8 @@
 # Feb 18: Proposal due
-  - In addition to sections of the proposal please add a paragraph explaining your choice of process for the class project
+  - In addition to [regular sections of the proposal](https://github.com/CS540-22/lectures/blob/master/project_proposal.pdf) please add a paragraph explaining your choice of process for the class project
     - what it is
     - why it is sensible for your project as compared to at least two other choices of the process listed in the textbook
+    - Remember that the user is some kind of software developer
 
 # Feb 8
   - Scrum: each team presents update on the proposal and on the process choice
