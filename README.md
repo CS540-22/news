@@ -4,6 +4,14 @@
     - why it is sensible for your project as compared to at least two other choices of the process listed in the textbook (Section 2)
     - Remember that the user is some kind of software developer
 
+# Feb 16
+    - Q&A
+    - Work on proposals
+
+# Feb 14
+    - Q&A
+    - Work on proposals
+
 # Feb 11
   - Scrum: each team presents update on the proposal and on the process choice (see textbook Section 2)
   - Please don't forget to have milestones/issues for your project
