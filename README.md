@@ -1,3 +1,7 @@
+# Feb 25:
+  - A paragraph describing one use case for your project
+  
+
 # Feb 18: Proposal due
   - In addition to [regular sections of the proposal](https://github.com/CS540-22/lectures/blob/master/project_proposal.pdf) please add a paragraph explaining your choice of the process for the class project
     - what it is
