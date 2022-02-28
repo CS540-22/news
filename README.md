@@ -1,3 +1,13 @@
+# Mar 3:
+  - A paragraph/diagram for two architectural views of the system implemented by your project
+
+# Mar 1:
+    - Q&A
+    - Work on the project
+
+# Feb 28:
+  - Some background on how to contribute to OSS projects
+
 # Feb 25:
   - A paragraph describing one use case for your project
 
