@@ -1,3 +1,13 @@
+# Mar 11:
+  - Work on projects
+
+# Mar 9:
+  - Weekly scrum: this week just updates, test case due Wed after Spring break
+
+# Mar 7:
+  - Mongo/Clickhouse
+  - Using WoC to find popular packages, projects using certain packages, commits with certain text, etc
+
 # Mar 3:
   - A paragraph/diagram for two architectural views of the system implemented by your project
 
