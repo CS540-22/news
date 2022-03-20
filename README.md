@@ -1,3 +1,12 @@
+# Mar 25:
+  - Work on projects
+
+# Mar 23:
+  - Weekly scrum: updates, discuss test case
+
+# Mar 21:
+  - GCP credits
+
 # Mar 11:
   - Work on projects
 
