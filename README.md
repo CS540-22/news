@@ -1,3 +1,39 @@
+# Apr 22, 25, 27, 29:
+  - Final project presentations
+
+# Apr 20:
+  - Weekly scrum: updates, deployment example
+  
+# Apr 18:
+  - Advanced Version Control
+
+# Apr 15:
+  - Work on projects
+
+# Apr 13:
+  - Weekly scrum: updates, project measurement example
+
+# Apr 11:
+  - Resilient Applications/Distributed Databases/Kubernetes
+  
+# Apr 8:
+  - Work on projects
+
+# Apr 6:
+  - Weekly scrum: updates, static analysis example
+  
+# Apr 4:
+  - Intro to Unity: Why/When/How it can help develop cross-platform games and interactive experiences
+
+# Apr 1: 
+  - Work on projects
+
+# Mar 30:
+  - Weekly scrum: updates, code review example (please use github PR)
+
+# Mar 28:
+  - Intro to DevOps: basics of Ansible
+
 # Mar 25:
   - Work on projects
 
