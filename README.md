@@ -35,6 +35,7 @@
   - Intro to DevOps: basics of Ansible
 
 # Mar 25:
+  - Updateds missed from Wed: from TanukiUdon, ProjectProposer, Crowdsourcing Dataset Platform, and Reuse
   - Work on projects
 
 # Mar 23:
