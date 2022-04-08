@@ -14,7 +14,12 @@
   - Weekly scrum: updates, project measurement example
 
 # Apr 11:
-  - Resilient Applications/Distributed Databases/Kubernetes
+  - Technologies behind resilient applications
+    - [Kubernetes](https://kubernetes.io/docs/tutorials)
+    - Distributed stores: [zookeeper](https://cwiki.apache.org/confluence/display/ZOOKEEPER/Tutorial), [etcd](https://etcd.io/)
+    - [Automate set up of entire neworks](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-intro?in=consul/network-infrastructure-automation)
+    - [Distributed Databases](https://thechief.io/c/editorial/top-25-distributed-databases/)
+  
   
 # Apr 8:
   - Work on projects
