@@ -14,7 +14,7 @@
   - Advanced Version Control
 
 # Apr 15:
-  - Work on projects
+  - No classes
 
 # Apr 13:
   - Weekly scrum: updates, project measurement example
