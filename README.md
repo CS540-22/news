@@ -1,5 +1,11 @@
-# Apr 22, 25, 27, 29:
+# May 2, 4, 6, 9:
   - Final project presentations
+
+# Apr 25, 27, 29:
+  - Finalize projects
+
+# Apr 22:
+  - Work on projects
 
 # Apr 20:
   - Weekly scrum: updates, deployment example
