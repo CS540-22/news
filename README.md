@@ -1,5 +1,12 @@
-# May 2, 4, 6, 9:
-  - Final project presentations
+# May 9:
+  - 
+# May 6:
+  - GLOC
+  - Maestro Builder
+# May 4:
+  - TORIS
+# May 2:
+  - Terminal GUI
 
 # Apr 25, 27, 29:
   - Finalize projects
