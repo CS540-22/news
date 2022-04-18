@@ -1,3 +1,9 @@
+# Project Report Format
+   - Same as the proposal
+   - Gather/organize information from the project proposal and the assignments
+   - Update schedule and responsibilities to reflect what actually happened
+   - Add lessons learned and future work
+
 # May 9:
   - 
 # May 6:
@@ -8,17 +14,20 @@
 # May 2:
   - Terminal GUI
 
-# Apr 25, 27, 29:
-  - Finalize projects
+# Apr 27, 29:
+  - Finalize projects 
+
+# Apr 25:
+  - Advanced Version Control
 
 # Apr 22:
-  - Work on projects
+  - Finish deployment updates
 
 # Apr 20:
   - Weekly scrum: updates, deployment example
   
 # Apr 18:
-  - Advanced Version Control
+  - Finish software measurement updates
 
 # Apr 15:
   - No classes
