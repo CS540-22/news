@@ -6,19 +6,21 @@
 
 # May 9:
   - gosecInterface 
+  - HomebrewGUI
+
 # May 6:
   - GLOC
   - Maestro Builder
+
 # May 4:
   - TORIS
+
 # May 2:
   - Terminal GUI
+  - Reuse Dashboard
 
-# Apr 27, 29:
-  - Finalize projects 
-
-# Apr 25:
-  - Advanced Version Control
+# Apr 25, 27, 29:
+  - Finalize projects: no class 
 
 # Apr 22:
   - Finish deployment updates
