@@ -7,10 +7,12 @@
 # May 9:
   - gosecInterface 
   - HomebrewGUI
+  - ProjectProposer
 
 # May 6:
   - GLOC
   - Maestro Builder
+  - CrowdsourcingDatasetPlatform
 
 # May 4:
   - TORIS
