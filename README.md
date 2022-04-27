@@ -16,7 +16,8 @@
 
 # May 4:
   - TORIS
-
+  - exampleusageplz
+  
 # May 2:
   - Terminal GUI
   - Reuse Dashboard
