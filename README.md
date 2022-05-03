@@ -8,12 +8,14 @@
   - gosecInterface 
   - HomebrewGUI
   - ProjectProposer
+  - VSCR-Release
+ 
 
 # May 6:
   - GLOC
   - Maestro Builder
   - CrowdsourcingDatasetPlatform
-
+ 
 # May 4:
   - TORIS
   - exampleusageplz
