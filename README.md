@@ -9,6 +9,7 @@
   - HomebrewGUI
   - ProjectProposer
   - VSCR-Release
+  - Taniuki-Udon
  
 
 # May 6:
